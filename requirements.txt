@@ -1,1 +1,8 @@
-streamlit pandas numpy seaborn catboost matplotlib shap plotly
+streamlit
+pandas
+numpy
+seaborn
+catboost
+matplotlib
+shap
+plotly
