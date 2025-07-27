@@ -3,6 +3,6 @@ pandas
 numpy
 seaborn
 catboost
-matplotlib
+matplotlib==3.4.1
 shap
 plotly
